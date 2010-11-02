@@ -2,7 +2,7 @@
 
 ##Installation
 
-Just download the distributable version at <http://github.com/leohackin/sooner> and double click the downloaded archive.
+Just download the distributable version at <http://github.com/leohackin/sooner/downloads> and double click the downloaded archive.
 
 Follow the Chrome instructions to complete installation.
 
