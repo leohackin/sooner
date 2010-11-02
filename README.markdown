@@ -2,7 +2,7 @@
 
 ##Installation
 
-Just download the distributable version at http://github.com/leohackin/sooner and double click the downloaded archive.
+Just download the distributable version at <http://github.com/leohackin/sooner> and double click the downloaded archive.
 
 Follow the Chrome instructions to complete installation.
 
@@ -17,6 +17,7 @@ When this step is done, just click on the icon extesion to view your pages.
 
 The current version from Sooner has the essential features from ReadItLaterList :
 
+* View pages in a easy-for-read list
 * Add Pages
 * Local caching of pages
 * Read Pages
